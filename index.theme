@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NordGTK
+Comment=Nordic theme based on Materia-Dark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NordGTK
+IconTheme=Pop
+CursorTheme=Pop
+CursorSize=24
