@@ -8,8 +8,12 @@ To get a matching GNOME shell and icons I modified the awesome [Materia Theme](h
 # TODO
 - [ ] More color variaton
 - [ ] improving icons
-- [ ] improving shell menu colors
+- [x] improving shell menu colors
 
 # Installation 
 
 Simply place it in ~/.themes/ or /usr/share/themes/
+
+# Sample
+
+<p align="center"><a href="https://github.com/arcticicestudio/nord" target="_blank"><img src="https://share.bl4ckcat.tech/NordGTK.png"/></a></p>
